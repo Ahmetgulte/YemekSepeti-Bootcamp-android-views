@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android-Views</string>
+    <string name="fashion_text">Modern Aesthetic Fashion</string>
+    <string name="shop_women_button">Shop women</string>
+    <string name="shop_man_button">Shop man</string>
+    <string name="account_check">Already have account?</string>
+    <string name="log_in_text">Log in</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="account_enter">Please enter your account here</string>
+    <string name="email_hint">Email or phone number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="google">Google</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+</resources>
